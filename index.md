@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 # About me
 
 Hey! My name is Rita, I am a last year PhD student at the University of Lisbon (IST) and University of Copenhagen (KU).
