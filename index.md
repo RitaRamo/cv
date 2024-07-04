@@ -6,118 +6,27 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# About me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hey! My name is Rita, I am a last year PhD student at the University of Lisbon (IST) and University of Copenhagen (KU).
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+My current research interests focus on multilingual and multimodal learning. In previous work I have explored retrieval augmentation for the task of image captioning, aiming to reduce the number of trainable parameters and to adapt to out-of-domain settings without explicit model fine-tuning. I have also explored retrieval-augmented generation in the context of multilingual image captioning and in few-shot settings. I am now especially interested in multilingual NLP, currently working with LLMs for low-resource languages. 
 
 
-### Definition lists can be used with HTML syntax.
+Please find more detailed information in my CV.
+
+
+
+
+## News
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>June 2024</dt>
+<dd> 🇲🇽 Presenting <a href="./another-page.html">PAELLA</a> at NAACL </dd>
+<dt>June 2024</dt>
+<dd> 🇺🇸 Submission to EMNLP </dd>
+<dt>March 2024</dt>
+<dd> 🇩🇰 Research Intern, <a href="./another-page.html">Apple</a> </dd>
+<dt>January 2024</dt>
+<dd> 🇦🇪 Visiting Researcher, <a href="./another-page.html">MBZUAI</a> </dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
