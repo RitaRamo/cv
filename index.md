@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me
+## About me
 
 Hey! My name is Rita, I am a last year PhD student at [LAMP]([cv2024.pdf](https://lampgroup.github.io/)), the Language and Multimodal Processing Group at the Department of Computer Science at the University of Copenhagen. I have a mixed scholarship with University of Lisbon (IST) and the University of Copenhagen (KU), supervised by [Bruno Martins](https://bgmartins.github.io/) and [Desmond Elliott](https://elliottd.github.io/).
 
@@ -29,6 +29,7 @@ For more details, please check out my [CV](cv2024.pdf).
 
 
 ## Publications
+[Google Scholar](https://scholar.google.com/citations?user=1AslBsAAAAAJ&hl=en)
 
 - [Understanding Retrieval Robustness for Retrieval-augmented Image Captioning](https://openreview.net/pdf?id=ibkLyMjbbT)  
   Wenyan Li, Jiaang Li, **Rita Ramos**, Raphael Tang, Desmond Elliott - *ACL 2024*
