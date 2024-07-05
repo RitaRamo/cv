@@ -19,8 +19,6 @@ For more details, please check out my [CV](cv2024.pdf).
 <dt>June 2024</dt>
 <dd> 🇲🇽 Presenting <a href="https://aclanthology.org/2024.findings-naacl.225.pdf">PAELLA</a> at NAACL </dd>
 <dt>June 2024</dt>
-<dd> 🇺🇸 Submission to EMNLP </dd>
-<dt>March 2024</dt>
 <dd> 🇩🇰 Invited talk at <a href="https://di.ku.dk/forsidebegivenheder/begivenheder-2024/diku-bits-nlp-march-2024/"> DIKU Bits </a> </dd>
 <dt>March 2024</dt>
 <dd> 🇩🇰 Research Intern, <a href="https://machinelearning.apple.com/">Apple</a> </dd>
@@ -31,9 +29,6 @@ For more details, please check out my [CV](cv2024.pdf).
 
 
 ## Publications
-
-- [GrammaMT: Improving Machine Translation with Grammar-Informed In-Context Learning](https://openreview.net/pdf?id=ibkLyMjbbT)  
-  **Rita Ramos**, Everlyn Asiko Chimoto, Maartje Ter Hoeve, Natalie Schluter - *Under review*
 
 - [Understanding Retrieval Robustness for Retrieval-augmented Image Captioning](https://openreview.net/pdf?id=ibkLyMjbbT)  
   Wenyan Li, Jiaang Li, **Rita Ramos**, Raphael Tang, Desmond Elliott - *ACL 2024*
