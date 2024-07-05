@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-Hey! My name is Rita, I am a last year PhD student at [LAMP](https://lampgroup.github.io/), the Language and Multimodal Processing Group at the Department of Computer Science at the University of Copenhagen. I have a mixed scholarship with University of Lisbon (IST) and the University of Copenhagen (KU), supervised by [Bruno Martins](https://bgmartins.github.io/) and [Desmond Elliott](https://elliottd.github.io/).
+Hey! My name is Rita, I am a last year PhD student at [LAMP](https://lampgroup.github.io/), the Language and Multimodal Processing Group at the Department of Computer Science at the University of Copenhagen. I have a mixed scholarship with the University of Lisbon (IST) and the University of Copenhagen (KU), supervised by [Bruno Martins](https://bgmartins.github.io/) and [Desmond Elliott](https://elliottd.github.io/).
 
 My current research interests focus on multilingual and multimodal learning. In previous work I have explored retrieval augmentation for the task of image captioning, aiming to reduce the number of trainable parameters and to adapt to out-of-domain settings without explicit model fine-tuning. I have also explored retrieval-augmented generation in the context of multilingual image captioning and in few-shot settings. I am now especially interested in multilingual NLP, currently working with LLMs for low-resource languages. 
 
